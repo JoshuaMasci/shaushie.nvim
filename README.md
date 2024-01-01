@@ -1,0 +1,1 @@
+# shaushie.nvim
